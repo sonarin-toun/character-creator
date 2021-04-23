@@ -1,2 +1,5 @@
 .buttonRow {
+    width: max-content;
+    padding-right: 20px;
+    padding-top: 12px;
 }
